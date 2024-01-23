@@ -5,9 +5,9 @@
 ![Image of Aayush](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBWFKCnlfxibo5lmKZ0GB6AIFLJkVmomKgaoLFRChWe6-GAKtdFQ47g0MJHf0VyD6_xY&usqp=CAU)
 
 ```
-$ git init
+$ git commit -m "App Updated at 11:38AM 2024/01/23"
 ```
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+- [x] Completed my portfolio
+- [ ] Working on New Features
+- [X] Lets do something new
 
